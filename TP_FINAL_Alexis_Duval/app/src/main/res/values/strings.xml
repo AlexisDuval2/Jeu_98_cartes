@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">97 cartes</string>
+    <string name="nb_de_cartes">NB DE CARTES</string>
+    <string name="temps">TEMPS</string>
+    <string name="score">SCORE</string>
+    <string name="_0">0</string>
+    <string name="_98">98</string>
+    <string name="bienvenue_au_jeu_97_cartes">Bienvenue au jeu 97 cartes</string>
+    <string name="nouvelle_partie">nouvelle partie</string>
+    <string name="meilleur_score">meilleur score:</string>
+</resources>
